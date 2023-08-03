@@ -83,6 +83,7 @@ git clone https://github.com/messense/aliyundrive-fuse.git package/luci-app-aliy
 #添加luci-app-bypass
 # git clone https://github.com/kiddin9/openwrt-bypass.git package/luci-app-bypass
 git clone https://github.com/gngpp/nas-xunlei.git package/luci-app-xunlei
+git clone https://github.com/messense/aliyundrive-webdav.git package/luci-app-aliyundrive-webdav
 add luci-app-autotimeset
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
 add luci-theme-kucat
